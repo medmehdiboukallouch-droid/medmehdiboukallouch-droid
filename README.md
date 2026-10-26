@@ -13,7 +13,6 @@ marocains, conforme au PCGE : saisie en partie double, balance, grand livre,
 lettrage, clôture et à-nouveaux, Bilan et CPC, déclarations de TVA, export FEC
 pour la DGI, portail client.
 `Spring Boot 3.5` `Java 21` `React 19` `TypeScript` `PostgreSQL` `Flyway`
-→ Code propriétaire. Étude de cas : **[mizan-case-study](../mizan-case-study)**
 
 **Gestion des frais de déplacement** — application full-stack à deux espaces
 (technicien terrain / gestionnaire) couvrant la saisie, la validation et le
